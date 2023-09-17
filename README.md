@@ -123,4 +123,4 @@ aws eks update-kubeconfig --name <EKS_CLUSTER_NAME> --region <REGION>
 ------
 ## :biohazard: ᴄʀᴇᴅɪᴛs & ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ʟɪᴋᴇ ᴛʜɪs ᴏʀ ғᴏʟʟᴏᴡ
 
-Ⓒ [Harshhaa Dev Projects](https://github.com/Harshhaa-Dev-Projects.git) - Made with :yellow_heart: from [Harshhaa Vardhan Reddy](https://github.com/NotHarshhaa.git)
+Ⓒ LifeTimeDevOps
